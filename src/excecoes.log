@@ -1,0 +1,154 @@
+[09/01/2021 15:37:17] EDBClient - Insufficient memory for this operation.
+[09/01/2021 15:37:20] EDBClient - Insufficient memory for this operation.
+[09/01/2021 15:39:53] EDBClient - Insufficient memory for this operation.
+[09/01/2021 15:39:57] EDBClient - Insufficient memory for this operation.
+[09/01/2021 15:41:07] Exception - Error Message
+[09/01/2021 16:00:23] EDBClient - Insufficient memory for this operation.
+[09/01/2021 16:00:26] EDBClient - Insufficient memory for this operation.
+[09/01/2021 16:00:29] EDBClient - Insufficient memory for this operation.
+[09/01/2021 16:17:06] EEncodingError - No mapping for the Unicode character exists in the target multi-byte code page
+[09/01/2021 16:31:07] EOutOfMemory - Out of memory
+[09/01/2021 16:31:42] EDBClient - Insufficient memory for this operation.
+[09/01/2021 16:31:44] EDBClient - Insufficient memory for this operation.
+[09/01/2021 16:48:57] EDBClient - Insufficient memory for this operation.
+[09/01/2021 16:49:00] EDBClient - Insufficient memory for this operation.
+[09/01/2021 16:59:53] EEncodingError - No mapping for the Unicode character exists in the target multi-byte code page
+[09/01/2021 17:01:23] EDatabaseError - Cannot perform this operation on a closed dataset
+[09/01/2021 17:09:17] EDatabaseError - Cannot perform this operation on a closed dataset
+[09/01/2021 17:54:44] EDBClient - Insufficient memory for this operation.
+[09/01/2021 17:55:15] EDatabaseError - Cannot perform this operation on a closed dataset
+[09/01/2021 18:07:21] EAccessViolation - Access violation at address 006BC557 in module 'Foo.exe'. Read of address 00000000
+[09/01/2021 18:16:08] EDBClient - Datapacket contains no meta data.
+[09/01/2021 18:20:56] EDBClient - Invalid field type.
+[09/01/2021 18:26:21] EDBClient - Insufficient memory for this operation.
+[09/01/2021 18:26:25] EDBClient - Insufficient memory for this operation.
+[09/01/2021 19:20:40] EDBClient - Insufficient memory for this operation.
+[09/01/2021 20:06:31] EDBClient - Insufficient memory for this operation.
+[09/01/2021 20:15:16] EDBClient - Invalid field type.
+[09/01/2021 20:20:22] EDBClient - Invalid parameter.
+[09/01/2021 20:28:14] EDBClient - Insufficient memory for this operation.
+[09/01/2021 20:28:16] EOutOfMemory - Out of memory
+[09/01/2021 20:29:10] EDBClient - Insufficient memory for this operation.
+[09/01/2021 20:29:13] EDBClient - Insufficient memory for this operation.
+[09/01/2021 20:29:15] EDBClient - Insufficient memory for this operation.
+[09/01/2021 20:29:18] EDBClient - Insufficient memory for this operation.
+[09/01/2021 20:43:27] EEncodingError - No mapping for the Unicode character exists in the target multi-byte code page
+[09/01/2021 21:04:24] EOutOfMemory - Out of memory
+[09/01/2021 21:21:38] EOutOfMemory - Out of memory
+[09/01/2021 21:22:23] EOutOfMemory - Out of memory
+[09/01/2021 21:23:05] EDBClient - At beginning of table.
+[10/01/2021 08:48:07] EDBClient - Insufficient memory for this operation.
+[10/01/2021 08:48:08] EOutOfMemory - Out of memory
+[10/01/2021 09:16:39] EDBClient - Insufficient memory for this operation.
+[10/01/2021 09:16:40] EOutOfMemory - Out of memory
+[10/01/2021 09:22:06] EOutOfMemory - Out of memory
+[10/01/2021 09:28:57] EDBClient - Invalid field type.
+[10/01/2021 09:29:19] EDBClient - Invalid field type.
+[10/01/2021 09:37:22] EDBClient - Invalid parameter.
+[10/01/2021 10:00:24] EAccessViolation - Access violation at address 4DB2A5B7 in module 'midas.dll'. Read of address 001AB374
+[10/01/2021 10:17:56] EAccessViolation - Access violation at address 004072C3 in module 'Foo.exe'. Read of address 0313E46C
+[10/01/2021 10:18:27] EAccessViolation - Access violation at address 004072C3 in module 'Foo.exe'. Read of address 0313E46C
+[10/01/2021 10:19:25] EAccessViolation - Access violation at address 004072D0 in module 'Foo.exe'. Read of address 0335E000
+[10/01/2021 10:19:53] EAccessViolation - Access violation at address 004072D0 in module 'Foo.exe'. Read of address 032FE000
+[10/01/2021 10:24:05] EDBClient - Insufficient memory for this operation.
+[10/01/2021 10:24:09] EDBClient - Insufficient memory for this operation.
+[10/01/2021 10:24:16] EDBClient - Insufficient memory for this operation.
+[10/01/2021 10:26:58] EDBClient - Insufficient memory for this operation.
+[10/01/2021 10:43:38] EDBClient - Insufficient memory for this operation.
+[10/01/2021 10:43:41] EDBClient - Insufficient memory for this operation.
+[10/01/2021 10:49:48] EReadError - Stream read error
+[10/01/2021 10:51:38] EReadError - Stream read error
+[10/01/2021 11:01:39] EDBClient - Insufficient memory for this operation.
+[10/01/2021 11:10:16] EDatabaseError - Cannot perform this operation on a closed dataset
+[10/01/2021 11:26:29] EOutOfMemory - Out of memory
+[10/01/2021 11:26:44] EDBClient - Insufficient memory for this operation.
+[10/01/2021 11:26:51] EDBClient - Insufficient memory for this operation.
+[10/01/2021 11:27:22] EOutOfMemory - Out of memory
+[10/01/2021 11:29:52] EInOutError - The specified directory already exists
+[10/01/2021 11:30:10] EInOutError - The specified directory already exists
+[10/01/2021 11:50:52] EInOutError - The specified directory is not empty
+[10/01/2021 11:55:32] EDatabaseError - Cannot perform this operation on a closed dataset
+[10/01/2021 12:02:22] EDatabaseError - Cannot perform this operation on a closed dataset
+[10/01/2021 12:03:24] EDBClient - Insufficient memory for this operation.
+[10/01/2021 12:14:13] EDBClient - Invalid field type.
+[10/01/2021 14:19:47] EDBClient - Insufficient memory for this operation.
+[10/01/2021 14:19:50] EDBClient - Insufficient memory for this operation.
+[10/01/2021 14:20:50] EDBClient - Insufficient memory for this operation.
+[10/01/2021 14:22:03] EDBClient - Insufficient memory for this operation.
+[10/01/2021 14:22:38] EDBClient - Insufficient memory for this operation.
+[10/01/2021 14:23:05] EOutOfMemory - Out of memory
+[10/01/2021 14:23:45] EOutOfMemory - Out of memory
+[10/01/2021 14:24:10] EDBClient - Insufficient memory for this operation.
+[10/01/2021 14:25:41] EDBClient - Insufficient memory for this operation.
+[10/01/2021 14:25:43] EDBClient - Insufficient memory for this operation.
+[10/01/2021 14:26:19] EDBClient - Insufficient memory for this operation.
+[10/01/2021 14:30:44] EVariantInvalidArgError - Invalid argument
+[10/01/2021 14:34:37] EVariantBadIndexError - Variant or safe array index out of bounds
+[10/01/2021 14:34:46] EVariantBadIndexError - Variant or safe array index out of bounds
+[10/01/2021 14:35:36] EVariantOutOfMemoryError - Out of memory
+[10/01/2021 14:36:12] EVariantOutOfMemoryError - Out of memory
+[10/01/2021 14:38:58] EDBClient - Insufficient memory for this operation.
+[10/01/2021 14:39:00] EDBClient - Insufficient memory for this operation.
+[10/01/2021 14:51:46] EDBClient - Insufficient memory for this operation.
+[10/01/2021 14:52:24] EDBClient - Insufficient memory for this operation.
+[10/01/2021 14:53:33] EDBClient - Delta is empty.
+[10/01/2021 14:58:34] EDBClient - Insufficient memory for this operation.
+[10/01/2021 14:59:05] EDBClient - Insufficient memory for this operation.
+[10/01/2021 15:07:57] EDBClient - Insufficient memory for this operation.
+[10/01/2021 15:13:02] EDBClient - Insufficient memory for this operation.
+[10/01/2021 15:13:49] EDatabaseError - Cannot perform this operation on a closed dataset
+[10/01/2021 15:14:20] EOutOfMemory - Out of memory
+[10/01/2021 15:59:03] EDatabaseError - Cannot perform this operation on a closed dataset
+[10/01/2021 16:04:38] EDBClient - Insufficient memory for this operation.
+[10/01/2021 16:05:07] EDBClient - Insufficient memory for this operation.
+[10/01/2021 16:07:36] EDBClient - Insufficient memory for this operation.
+[10/01/2021 16:07:47] EDBClient - Insufficient memory for this operation.
+[10/01/2021 16:11:10] EDatabaseError - Cannot perform this operation on a closed dataset
+[10/01/2021 16:51:03] EAssertionFailed - Assertion failure (D:\S\P2\appmanutencao-master\src\ClienteServidor.pas, line 306)
+[10/01/2021 17:08:06] EEncodingError - No mapping for the Unicode character exists in the target multi-byte code page
+[10/01/2021 17:39:24] Exception - Error Message
+[10/01/2021 17:57:52] EAccessViolation - Access violation at address 0060CFDF in module 'Foo.exe'. Read of address 00000010
+[10/01/2021 17:59:00] EAccessViolation - Access violation at address 0060CFDF in module 'Foo.exe'. Read of address 00000010
+[10/01/2021 20:17:24] EAggregateException - One or more errors occurred
+[10/01/2021 20:28:45] EAggregateException - One or more errors occurred
+[10/01/2021 20:34:27] EAggregateException - One or more errors occurred
+[10/01/2021 20:35:41] EAggregateException - One or more errors occurred
+[10/01/2021 20:37:24] EAggregateException - One or more errors occurred
+[10/01/2021 20:37:49] EAggregateException - One or more errors occurred
+[10/01/2021 20:40:10] EAggregateException - One or more errors occurred
+[10/01/2021 20:58:10] EThread - Thread creation error: 
+[10/01/2021 20:58:16] EThread - Thread creation error: 
+[10/01/2021 20:58:18] EThread - Thread creation error: 
+[10/01/2021 20:58:24] EThread - Thread creation error: 
+[10/01/2021 20:58:40] EThread - Thread creation error: 
+[10/01/2021 21:00:32] EEncodingError - No mapping for the Unicode character exists in the target multi-byte code page
+[10/01/2021 21:00:40] EEncodingError - No mapping for the Unicode character exists in the target multi-byte code page
+[10/01/2021 21:01:04] EEncodingError - No mapping for the Unicode character exists in the target multi-byte code page
+[10/01/2021 21:01:21] EEncodingError - No mapping for the Unicode character exists in the target multi-byte code page
+[10/01/2021 21:05:35] Exception - O número máximo de threads é 2000
+[11/01/2021 10:48:22] EThread - Cannot terminate an externally created thread
+[11/01/2021 10:55:45] EThread - Thread Error: Identificador inválido (6)
+[11/01/2021 10:56:22] EThread - Thread Error: Identificador inválido (6)
+[11/01/2021 11:54:56] EThread - Thread Error: Identificador inválido (6)
+[11/01/2021 12:22:09] EThread - Cannot call Start on a running or suspended thread
+[11/01/2021 13:48:50] EInvalidPointer - Invalid pointer operation
+[11/01/2021 13:48:59] EAccessViolation - Access violation at address 006E7F72 in module 'Foo.exe'. Read of address 00000001
+[11/01/2021 13:50:36] EAccessViolation - Access violation at address 004072FF in module 'Foo.exe'. Write of address 00680058
+[11/01/2021 13:53:09] EThread - Thread Error: Identificador inválido (6)
+[11/01/2021 13:53:48] EThread - Thread Error: Identificador inválido (6)
+[11/01/2021 13:59:38] EThread - Thread Error: Identificador inválido (6)
+[11/01/2021 14:24:42] EThread - Thread Error: Identificador inválido (6)
+[11/01/2021 14:25:26] EThread - Thread Error: Identificador inválido (6)
+[11/01/2021 14:25:30] EThread - Thread Error: Identificador inválido (6)
+[11/01/2021 16:43:37] EThread - Thread Error: Identificador inválido (6)
+[11/01/2021 16:45:06] EThread - Thread Error: Identificador inválido (6)
+[11/01/2021 16:48:11] EThread - Thread Error: Identificador inválido (6)
+[11/01/2021 16:50:52] EThread - Thread Error: Identificador inválido (6)
+[11/01/2021 16:52:14] EThread - Thread Error: Identificador inválido (6)
+[11/01/2021 16:54:29] EThread - Thread Error: Identificador inválido (6)
+[11/01/2021 17:10:34] EThread - Thread Error: Identificador inválido (6)
+[11/01/2021 17:18:26] EThread - Thread Error: Identificador inválido (6)
+[11/01/2021 17:27:01] EThread - Thread Error: Identificador inválido (6)
+[11/01/2021 17:28:19] EThread - Thread Error: Identificador inválido (6)
+[11/01/2021 17:30:09] EThread - Thread Error: Identificador inválido (6)
+[11/01/2021 17:31:17] EThread - Thread Error: Identificador inválido (6)
